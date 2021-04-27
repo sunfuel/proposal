@@ -39,3 +39,7 @@ iframe {
     height: .75in;
     background-color: #253D2D;
 }
+.all-center{
+    display: grid;
+    place-items: center;
+}
